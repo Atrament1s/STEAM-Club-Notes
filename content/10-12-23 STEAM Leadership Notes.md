@@ -22,7 +22,8 @@ Jannah Nuriddin
 
 Asiyah Baba
 - ID: 4742191
-- Email: naraad2000@gmail.com
+- ~~Email: naraad2000@gmail.com~~
+- Email: askbaba644@gmail.com
 
 Stephanie
 - ID: 5166909
