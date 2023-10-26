@@ -1,6 +1,8 @@
 ---
 title: Table of Contents
 ---
+Pick the note document you want to view below (10-12-2023 is out of order).
+
 | Date (MM-DD-YYYY) | Type of Meeting          | Type of File | File                                                            |
 | ----------------- | ------------------------ | ------------ | --------------------------------------------------------------- |
 | ~~10-12-2023~~    | ~~Leadership~~           | ~~Markdown~~ | ~~[[10-12-23 STEAM Leadership Notes\|STEAM Leadership Notes]]~~ |
