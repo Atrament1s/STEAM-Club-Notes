@@ -1,6 +1,6 @@
 # Agenda
 1. Introductions
-2. [[10-12-2023 STEAM Club Notes (Leadership)#ID's and Emails|Sharing ID's]]
+2. [[10-12-23 STEAM Leadership Notes#ID's and Emails|Sharing ID's]]
 3. Talking About Random Stuff to Pass the Time
 
 # ID's and Emails
