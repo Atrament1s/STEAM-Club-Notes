@@ -3,25 +3,15 @@
 
 # Attendance (11 Participants)
 Jan Pongratz
-
 Ace (V. M.)
-
 Vasilisa Borisova
-
 Durga Iyer
-
 Stephanie
-
 Hitej R
-
 Katie T.
-
 Jasmine Pettit
-
 Sofia Jackson
-
 Bailey WR (She/They)
-
 Diana's iPad
 
 # Topics (Most to Least Votes)
