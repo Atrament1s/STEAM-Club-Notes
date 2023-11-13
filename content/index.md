@@ -3,7 +3,7 @@ title: Table of Contents
 ---
 Pick the note document you want to view below (some notes will not be available to view at this time).
 
-| Date (MM-DD-YYYY) | Type of Meeting          | Type of File            | File                                                                                                                                                                                          |
+| Date (MM-DD-YYYY) | Meeting Type             | File Type               | File                                                                                                                                                                                          |
 | ----------------- | ------------------------ | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ~~10-12-2023~~    | ~~Leadership~~           | ~~Online~~ <br> ~~PDF~~ | ~~[[10-12-23 STEAM Leadership Notes\|STEAM Leadership Notes]]~~ <br> ~~<a href="">STEAM Leadership Notes</a>~~                                                                                |
 | 10-20-2023        | Event                    | Online <br> PDF         | [[10-20-23 STEAM Event Notes\|STEAM Event Notes]] <br> <a href="https://www.mediafire.com/file/bxqw674syi6lwcu/10-20-23_STEAM_Event_Notes.pdf/file" target="_blank">STEAM Event Notes</a>     |
