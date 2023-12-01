@@ -1,7 +1,7 @@
 ---
 title: Table of Contents
 ---
-Pick the note document you want to view below (some notes will not be available to view at this time).
+Pick the note document you want to view below. Some notes will not be available to view at this time.
 
 | Date (MM-DD-YYYY) | Meeting Type             | File Type               | File                                                                                                                                                                                      |
 | ----------------- | ------------------------ | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
